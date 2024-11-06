@@ -14,6 +14,7 @@ Section: tweaks
 Description: Prysmalternative。
 Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Name: Jade
+Depiction: https://khalilbozo.github.io/repo//depictions/?p=jade
 
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
