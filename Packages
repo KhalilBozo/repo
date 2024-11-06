@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.dao.jade
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Filename: ./debs/jade.deb
+Size: 386356
+MD5sum: d8d6e279e04ae191809ff3f67f60ecb8
+Description: Prysm alternative
+Name: Jade(rootless)
+Author: Reposi3 Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depiction: https://khalilbozo.github.io/repo//depictions/web?p=jade
+
