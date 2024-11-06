@@ -48,3 +48,20 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
 
+Package: com.hoangdus.speedster
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: Hoangdus
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: ./debs/speedster.deb
+Size: 46840
+MD5sum: 18c49d16d96e15c181bb8d334c609328
+SHA1: 3bfd7d9b6c2f359db9fdca448ca85c0f9b191b1a
+SHA256:70e1fd10c127633861e3f3e2d2fcc207632d8440dc4bb793ed4d631e1f102bfe
+Section: tweaks
+Description: Faster iOS animation.
+Author: Hoangdus
+Name: Speedster
+Depiction: https://khalilbozo.github.io/repo//depictions/?p=Speedster
+
