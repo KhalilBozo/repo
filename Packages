@@ -10,10 +10,10 @@ Size: 386356
 MD5sum: d8d6e279e04ae191809ff3f67f60ecb8
 SHA1: 505a4654edccc426d2fcc668cb055f37509d4bd2
 SHA256: a008857bec4b89f8e71488b381b0bd85a539cb1ae1ee19e17e707c438aacee3d
-Section: 嗨-工具
-Description: Prysm控制中心自定义。
+Section: tweaks
+Description: Prysmalternative。
 Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
-Name: Jade(rootless)
+Name: Jade
 
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
